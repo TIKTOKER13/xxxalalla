@@ -1,0 +1,5 @@
+{
+    "code": 403,
+    "status": false,
+    "message": "APIKEY Invalid!\nSilahkan daftar di https://api.xteam.xyz atau hubungi developer untuk mendapatkan APIKEY yang valid"
+}
